@@ -1,5 +1,5 @@
 // IMyAidlInterface.aidl
-package com.example.jni;
+package com.example.tume;
 
 // Declare any non-default types here with import statements
 

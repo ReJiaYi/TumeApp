@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.jni'
+    namespace 'com.renjiayi.tume'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.jni"
+        applicationId "com.renjiayi.tume"
         minSdk 21
         targetSdk 33
         versionCode 1
